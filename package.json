@@ -1,5 +1,5 @@
 {
-  "name": "@wcm/wcm-module-helper",
+  "name": "@wcm/module-helper",
   "version": "1.0.0",
   "description": "A passthrough library to easily import functionality of the wcm in modules",
   "main": "index.js",
