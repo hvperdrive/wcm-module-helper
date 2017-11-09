@@ -1,0 +1,25 @@
+{
+  "name": "@wcm/wcm-module-helper",
+  "version": "1.0.0",
+  "description": "A passthrough library to easily import functionality of the wcm in modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvperdrive/wcm-module-helper.git"
+  },
+  "keywords": [
+    "WCM",
+    "Pelorus",
+    "CMS",
+    "Modules"
+  ],
+  "author": "Jeroen Valcke <jeroen.valcke@district01.be>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvperdrive/wcm-module-helper/issues"
+  },
+  "homepage": "https://github.com/hvperdrive/wcm-module-helper#readme"
+}
